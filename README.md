@@ -58,7 +58,12 @@ Unidad:
 Título del trabajo:
 Ejercicios ......
 
-Estudiante:
+Estudiantes:
+América Elizabeth Zavaleta Ramirez
+Ivan Jair Vizcarra Gomez 
+Jose Ricardo Pasillas Hernández
+Abraham Ezequiel Garcia Campos
+
 .......
 
 	</p>
