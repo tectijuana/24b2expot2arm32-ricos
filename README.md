@@ -63,6 +63,7 @@ América Elizabeth Zavaleta Ramirez
 Ivan Jair Vizcarra Gomez 
 Jose Ricardo Pasillas Hernández
 Abraham Ezequiel Garcia Campos
+Jorge Alexis Lua Velasco
 
 .......
 
