@@ -79,7 +79,7 @@ Jorge Alexis Lua Velasco
 
 <p align=justify>
 	
-**Manipulación de memoria y arrays**
+# Manipulación de memoria y arrays
 	
 Direcciones de memoria
 	En programación, cada variable o dato almacenado en la memoria de una computadora tiene una 
