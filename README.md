@@ -75,12 +75,11 @@ Jorge Alexis Lua Velasco
 
 <pre>
 
-	<p align=left>
-
-		# Manipulación de memoria y arrays
-<p align=justify>
 	
 
+<p align=justify>
+	
+# Manipulación de memoria y arrays
 	
 Direcciones de memoria
 	En programación, cada variable o dato almacenado en la memoria de una computadora tiene una 
@@ -123,6 +122,4 @@ Definición y manipulación de arrays
 	
 </p>
 		
-	</p>
 
-</pre>
