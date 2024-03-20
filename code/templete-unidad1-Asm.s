@@ -1,12 +1,12 @@
 
 /*
-Title: Practica 0 Templete para programa ARM Assembly   
-Filename: hello.s
-Autor: ____Aqui su nombre___
-Date: ______
-Description : Hola Mundo en ARM Assembly
+Title: Array de números ordenados por el método de burbuja   
+Filename: arrayBurbuja.s
+Autor: América Elizabeth Zavaleta Ramirez
+Date: 19/03/2024
+Description : 
 Imput: -
-Ouput: HOLA MUNDO to console
+Ouput: 
 */
 
 .global main
