@@ -1,4 +1,5 @@
-![image](https://github.com/tectijuana/24b2expot2arm32-ricos/assets/158106662/c008c77f-952f-46b7-b1f7-898d740f3d86)
+![image](![image](https://github.com/tectijuana/24b2expot2arm32-ricos/assets/158106662/9d38b152-a29e-4a16-adb1-f66c9cd11bd6.GIF)
+)
 
 # Manipulación de memoria y arrays
 
