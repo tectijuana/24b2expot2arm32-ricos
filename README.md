@@ -1,4 +1,4 @@
-![](https://s3.amazonaws.com/videos.pentesteracademy.com/videos/badges/low/arm-assembly.png)
+![](file:///C:/Users/LAB-DSC-ITT/Downloads/cooltext454300732295782.gif)
 
 # Manipulación de memoria y arrays
 
