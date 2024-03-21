@@ -4,9 +4,9 @@ Title: Array de números ordenados por el método de burbuja
 Filename: arrayBurbuja.s
 Autor: América Elizabeth Zavaleta Ramirez
 Date: 19/03/2024
-Description : 
+Description : Generador de números aleatorios y ordenamiento de los mismos por el método de burbuja
 Imput: -
-Ouput: 
+Ouput: Lista de números ordenados por el método de burbuja
 */
 
 .LC0:
