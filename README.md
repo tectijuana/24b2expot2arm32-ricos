@@ -45,6 +45,8 @@ Jorge Alexis Lua Velasco
 	dirección única. Estas direcciones son identificadores que indican la ubicación física en la 
 	memoria de un valor específico. Las direcciones de memoria se suelen representar en hexadecimal 
 	y son utilizadas para acceder y manipular los datos almacenados.
+ ![image](https://github.com/tectijuana/24b2expot2arm32-ricos/assets/159206288/4c7ff79b-e2de-45dd-82d2-b1bd3c007f4e)
+
 
 *Acceso a la memoria*
 
@@ -53,12 +55,15 @@ Jorge Alexis Lua Velasco
 	variables o datos que se desean acceder. Dependiendo del lenguaje de programación y del nivel 
 	de abstracción, este acceso puede ser directo o indirecto.
 
+
 *Gestión dinámica de memoria*
 
 	La gestión dinámica de memoria es un aspecto importante en la manipulación de arrays, especialmente 
  	cuando el tamaño del array no se conoce en tiempo de compilación. En lenguajes como C y C++, se 
   	utiliza la función malloc() para asignar memoria dinámicamente para un array. Posteriormente, 
    	se puede liberar esta memoria utilizando la función free() cuando ya no sea necesaria.
+![image](https://github.com/tectijuana/24b2expot2arm32-ricos/assets/159206288/bba0de3d-510b-40fe-807f-ad4c1de3ca63)
+
 
 *Optimización de acceso a memoria*
 
@@ -92,6 +97,7 @@ Jorge Alexis Lua Velasco
 	Por ejemplo, un array bidimensional puede ser interpretado como un array de arrays. 
 	La manipulación de estos arrays puede realizarse mediante punteros y aritmética de punteros
 	para acceder a los elementos individuales de forma eficiente.
+ ![image](https://github.com/tectijuana/24b2expot2arm32-ricos/assets/159206288/f65c3ebb-6cd6-4db0-8f83-11ac8d6791fc)
 
 	
 ## Definición y manipulación de arrays
