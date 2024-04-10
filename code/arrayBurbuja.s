@@ -10,11 +10,11 @@ Ouput: Lista de números ordenados por el método de burbuja
 */
 
 .LC0:
-        .string "Lista de numeros aleatorios:"
+        .string "Lista de numeros aleatorios:\n"
 .LC1:
         .string "%d "
 .LC2:
-        .string "\nLa lista de numeros ordenados por Burbuja es: "
+        .string "\nLa lista de numeros ordenados por Burbuja es:\n"
 .LC3:
         .string "%d\n"
 main:
